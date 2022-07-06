@@ -19,7 +19,7 @@ I work with fresh-year and second year students. I am teaching Mechanics, Thermo
 
 In this year I worked on course "Phisics with elements of computer modelling" and my students keep me interested Fronted-develop. This is my first step of learning pass. 
 
-If you wont to help me, text me)
+If you want to help me, text me)
   
 ***
 
