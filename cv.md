@@ -1,7 +1,7 @@
 # ***Polina Kuksova***
 <img src="personalphoto.jpg" width="170"/> <add personal photo and resized>
   
----------------
+***
   
 ## Junior Frontend Developer
 **Contact information:**
@@ -9,6 +9,7 @@
 - **Email:** pakuksova@gmail.com
 - **Telegram:** *@Polinak20*
 -  **Discord:** *@PolinaKuksova2022*
+
 ***
   
 ## **Briefly about myself:**
