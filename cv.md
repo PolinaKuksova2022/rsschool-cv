@@ -1,18 +1,12 @@
 # ***Polina Kuksova***
-
-<add personal photo and resized>
-  
+<img src="personalphoto.jpg" width="170"/> <add personal photo and resized>
 ***
 ## Junior Frontend Developer
-**Contact information**
-
-  **Phone:** +7(999)527-50-91
-  
-  **Email:** pakuksova@gmail.com
-  
-  **Telegram:** *@Polinak20*
-  
-  **Discord:** *@PolinaKuksova2022*
+**Contact information:**
+- **Phone:** +7(999)527-50-91
+- **Email:** pakuksova@gmail.com
+- **Telegram:** *@Polinak20*
+-  **Discord:** *@PolinaKuksova2022*
   ***
   ## **Briefly about myself:**
   I am a physics teacher at ITMO university  (Saint-Petersburg). 
