@@ -22,7 +22,7 @@ In this year I worked on course "Phisics with elements of computer modelling" an
 If you wont to help me, text me)
   
 ***
-  
+
 ## **Code example:**
 This paragraph will be added later...
   
