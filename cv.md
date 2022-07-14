@@ -17,7 +17,7 @@ I am a physics teacher at ITMO university  (Saint-Petersburg).
   
 I work with fresh-year and second year students. I am teaching Mechanics, Thermodynamics, Waves, Electricity and Magnetism. 
 
-In this year I worked on course "Phisics with elements of computer modelling" and my students keep me interested Fronted-develop. This is my first step of learning pass. 
+In this year I worked on course "Phisics with elements of computer modelling" and my students keep me interested Frontend-develop. This is my first step of learning pass. 
 
 If you want to help me, text me)
   
