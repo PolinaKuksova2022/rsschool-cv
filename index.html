@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <title>CV.Kuksova</title>
+
+   <!-- подключение стилей -->
+   <link rel="stylesheet" href="style.css">
+    
+   <!-- добавляю фавиконку -->
+   <link rel="icon" href="./assets/favicon.ico">
+    
+   <!-- подключение шрифта -->
+   <link rel="preconnect" href="https://fonts.gstatic.com">  
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+ </head>
+   
+ <body>
+    <header class="header">
+      <div class="container">
+        
+        <!-- подключение основной навигации -->
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+            <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+            <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+            <li class="nav-item"><a href="#code" class="nav-link">Сode</a></li>
+            <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+            <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+          </ul>
+        </nav>
+
+        <!--изменении навигации при изменении размера -->
+        <div class="toggle">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- общая папка для всего main -->
+      <div class="container main-container">
+
+       <!--секция с фото и подписью -->
+       <section class="section section-profile" id="profile">
+         <!--секция с фото и подложкой к фото-->
+         <section class="mypersonalphoto"> <!-- добавлении фотографии -->
+           <img class="mypersonalphoto_img" src="./assets/jpg/personalphoto(1).jpg" alt="personalphoto">
+         </section>
+
+         <!--блок с подписью к фото-->
+         <div class="section-profile-title">
+           <h1 class="section-title">Hi, I'm Polina</h1>
+           <h3 class="section-subtitle">Front-End Developer</h3>
+           <div class="button">
+              <a class="btn-telegram btn-9" href="https://t.me/Polinak20" target="_blank">
+               <span>Telegram</span>
+              </a>
+           </div>
+          </div>
+         
+       </section>
+
+       <!--секция summary -->
+       <section class="section" id="summary">
+          <h2 class="section-title-dout">Summary</h2>
+          <p class="p highlits">I am a Junior Front-End Developer.</p>
+          <p class="p">For the last few years I have been working as a physics teacher.</p>
+          <p class="p">Now I teach at ITMO university (Saint-Petersburg). I work with fresh-year and second year students.</p>
+          <p class="p">After completing the course, I will be glad to join the development team and get real experience in website development. 
+            I would like to work under the guidance of an experienced developer to gain practical experience.
+          </p>
+       </section>
+         
+       <!--секция education -->
+       <section class="section" id="education">
+          <h2 class="section-title-dout">Education</h2>
+          <ul class="section-list">
+            <li class="section-item"> Bachelor degree: 
+              <span class="span">Saint Petersburg Mining University.</span>
+              <p class="p">Specialty: electronics and nanoelectronics.</p>
+            </li>
+            <li class="section-item">Master degree: 
+              <span class="span">The Herzen State Pedagogical University of Russia.</span> 
+              <p class="p">Specialty: physical and astronomical education.</p>
+            </li>
+          </ul>
+       </section>
+
+       <!--секция skills -->
+       <section class="section" id="skills">
+          <h2 class="section-title-dout">Skills</h2>
+          <ul class="section-list">
+            <li class="section-item">Web-development: 
+              <span class="span"> HTML5, CSS3, JavaScript</span>
+            </li>
+            <li class="section-item">Frameworks and libraries: 
+              <span class="span">  React</span>
+            </li>
+            <li class="section-item">Version control: 
+              <span class="span">  GIT, Github</span>
+            </li>
+            <li class="section-item">Graphics: 
+              <span class="span"> Figma</span>
+            </li>
+            <li class="section-item">Features: 
+              <span class="span"> Fast-learning</span>
+            </li>
+          </ul>
+       </section>
+
+       <!--секция code -->
+       <section class="section" id="code">
+          <h2 class="section-title-dout">Code</h2>
+          <p>A few weeks later...</p>
+       </section>
+
+       <!--секция languages -->
+       <section class="section" id="languages">
+          <h2 class="section-title-dout">Languages</h2>
+          <ul class="section-list">
+            <li class="section-item">Russian
+              <span class="span"> - Native</span>
+            </li>
+            <li class="section-item">English
+              <span class="span"> - Intermediate</span>
+            </li>
+            <li class="section-item">German
+              <span class="span"> - Basic</span>
+            </li>
+          </ul>
+       </section>
+         
+       <!--секция contacts -->
+       <section class="section" id="contacts">
+          <h2 class="section-title-dout">Contacts</h2>
+          <ul class="section-list">
+            <li class="section-item contacts-item-google"> Sain-Petersburg, Russia</li>
+            <li class="section-item contacts-item-git"> Github:
+              <a class="span link" href="https://github.com/PolinaKuksova2022" target="_blank"> PolinaKuksova2022</a>
+            </li>
+            <li class="section-item contacts-item-telegram"> Telegram:
+              <a class="span link" href="https://t.me/Polinak20" target="_blank"> Polinak20</a>
+            </li>
+            
+          </ul>
+       </section>
+
+      </div>
+    </main>
+
+    <footer class="header footer">
+        <div class="container">
+          <div> 
+            @2022 Polina Kuksova
+            <a href="https://rs.school/js/">
+              <img src="./assets/jpg/rs_school-og.png" width="100"height="80" alt="rs-school">
+            </a>
+          </div>
+        </div>
+    </footer>
+    
+    <!--прокручивание наверх-->
+    <div style="height:auto"></div>
+    <a class="top button" href="#" title="Вернуться к началу страницы"><span>Top</span></a>
+   
+    <!-- подключение файла js с изменяющейся панельью навигации-->
+    <script src="./index.js"></script>
+ </body>
+
+</html>
