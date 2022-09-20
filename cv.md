@@ -1,5 +1,5 @@
 # ***Polina Kuksova***
-<img src="personalphoto.jpg" width="170"/> <add personal photo and resized>
+ <img src="personalphoto.jpg" width="170"/> <add personal photo and resized>
   
 ***
   
